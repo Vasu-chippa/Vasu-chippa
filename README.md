@@ -34,8 +34,8 @@ Full-Stack Developer • Software Engineering Student • Patent Co-Inventor
 
 - 🌍 Portfolio: https://protofolio-vasu.onrender.com/
 - 📧 Email: chippavasu3@gmail.com
-- 💼 LinkedIn: YOUR_LINKEDIN_LINK
-- 🐙 GitHub: https://github.com/YOUR_USERNAME
+- 💼 LinkedIn: https://www.linkedin.com/in/vasu-chippa-0640112a7
+- 🐙 GitHub: https://github.com/Vasu-chippa
 
 ---
 
@@ -111,7 +111,6 @@ A digital ecosystem connecting farmers and buyers directly.
 ### Tech Stack
 React • TypeScript • Redux Toolkit • Node.js • PostgreSQL • AWS • Docker
 
-🔗 Project Link: ADD_YOUR_REPO_LINK
 
 ---
 
@@ -143,28 +142,7 @@ Patent Application No:
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 💡 Quote
 
